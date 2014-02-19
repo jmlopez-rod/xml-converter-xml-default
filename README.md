@@ -22,8 +22,8 @@ Using the defaults we can evaluate the python code
     <message>
         This message gets printed first.
         <br/>
-        This message gets printed last.  \
-\n    </message>
+        This message gets printed last.  
+    </message>
 
 To leave it unevaluated we can set `exec` to off.
 
